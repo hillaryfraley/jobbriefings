@@ -38,7 +38,7 @@ When you arrive at the job site, you must complete a job site assessment. During
 #### Job Site Assessment Requirements
 During the job site assessment, you must look for hazards and gather information about characteristics and conditions of the job site.
 
-> **WARNING**
+> :warning: **WARNING**
 
 > During the job site assessment, treat all lines and equipment as if they are energized.
 
@@ -74,7 +74,7 @@ The EIC or DCM will use the Job Briefing Form (FM-0002-2015) as a guide for lead
 * Personal protective equipment (PPE) requirements.
 
 
-> **WARNING**
+> :warning: **WARNING**
 
 > If you are involved in a job briefing, you must know the specific hazards identified for the job and how to mitigate or eliminate the hazards before you begin working.
 
