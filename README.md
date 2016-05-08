@@ -1,9 +1,6 @@
 # Job Briefings
 >WP-0001-2015, Rev. 0
 
-[TOC]
-
-
 ## Purpose
 Job briefings are an important part of planning safe work. Job briefings are also required by Occupational Safety and Health Administration (OSHA) [29 CFR 1926.952](http://www.ecfr.gov/cgi-bin/text-idx?SID=ceeaf016fdd21de13fffb416153479ad&node=se29.8.1926_1952&rgn=div8). This work practice helps crews hold job briefings in compliance with OSHA requirements.
 
@@ -41,7 +38,7 @@ When you arrive at the job site, you must complete a job site assessment. During
 #### Job Site Assessment Requirements
 During the job site assessment, you must look for hazards and gather information about characteristics and conditions of the job site.
 
-> **WARNING**
+> :warning: **WARNING**
 
 > During the job site assessment, treat all lines and equipment as if they are energized.
 
@@ -77,7 +74,7 @@ The EIC or DCM will use the Job Briefing Form (FM-0002-2015) as a guide for lead
 * Personal protective equipment (PPE) requirements.
 
 
-> **WARNING**
+> :warning: **WARNING**
 
 > If you are involved in a job briefing, you must know the specific hazards identified for the job and how to mitigate or eliminate the hazards before you begin working.
 
