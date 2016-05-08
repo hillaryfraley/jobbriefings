@@ -58,6 +58,7 @@ Examples of information to gather during the job site assessment include:
 * Weather conditions.
 * Terrain and surroundings, including poisonous plants and unstable trees or limbs.
 * Presence of wildlife, pets, customers, pedestrians, or workers from other utilities.
+
 #### Job Site Assessment Documentation
 You do not have to document the details of your job site assessment. Instead, you should make mental notes of the hazards, characteristics, and conditions you observe so that you can talk about them during the job briefing.
 
