@@ -22,7 +22,7 @@ There are four elements of job briefings:
 
 Every job requires these four elements, including storm response and service restoration jobs.
 
-> **NOTE:**
+> **Note:**
 > When you work alone, you must complete the four elements of a job briefing as carefully as when you are part of a crew. Lone worker briefings are planning processes that include thinking through all of the same topics as crew briefings, including hazards, work procedures, and emergency plans.
 
 ### Daily Briefing
