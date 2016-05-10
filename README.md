@@ -1,6 +1,35 @@
 # Job Briefings
 >WP-0001-2015, Rev. 0
 
+----------
+### Table of Contents
+[Purpose](https://github.com/hillaryfraley/jobbriefings#purpose)
+
+[Scope](https://github.com/hillaryfraley/jobbriefings#scope)
+
+[Work Practice](https://github.com/hillaryfraley/jobbriefings#work-practice)  
+
+* [Daily Briefing](https://github.com/hillaryfraley/jobbriefings#daily-briefing)  
+     - [Daily Briefing Requirements](https://github.com/hillaryfraley/jobbriefings#daily-briefing-requirements)
+     - [Daily Briefing Documentation](https://github.com/hillaryfraley/jobbriefings#daily-briefing-documentation)
+* [Job Site Assessment](https://github.com/hillaryfraley/jobbriefings#job-site-assessment)
+     - [Job Site Assessment Requirements](https://github.com/hillaryfraley/jobbriefings#job-site-assessment-requirements)
+     - [Job Site Assessment Documentation](https://github.com/hillaryfraley/jobbriefings#job-site-assessment-documentation)
+* [Job Briefing](https://github.com/hillaryfraley/jobbriefings#job-briefing)
+     - [Job Briefing Requirements](https://github.com/hillaryfraley/jobbriefings#job-briefing-requirements)
+     - [Job Briefing Documentation](https://github.com/hillaryfraley/jobbriefings#job-briefing-documentation)
+* [Post-Job Briefing](https://github.com/hillaryfraley/jobbriefings#job-briefing)  
+     - [Post-Job Briefing Requirements](https://github.com/hillaryfraley/jobbriefings#job-briefing-requirements)
+     - [Post-Job Briefing Documentation](https://github.com/hillaryfraley/jobbriefings#job-briefing-documentation)
+
+[References](https://github.com/hillaryfraley/jobbriefings#references)
+
+* [Laws and Regulations](https://github.com/hillaryfraley/jobbriefings#laws-and-regulations)
+* [Technical Information](https://github.com/hillaryfraley/jobbriefings#technical-information)
+* [Related Work Practices](https://github.com/hillaryfraley/jobbriefings#related-work-practices)
+* [Related Documents and Forms](https://github.com/hillaryfraley/jobbriefings#related-documents-and-forms)
+
+----------
 ## Purpose
 Job briefings are an important part of planning safe work. Job briefings are also required by Occupational Safety and Health Administration (OSHA) [29 CFR 1926.952](http://www.ecfr.gov/cgi-bin/text-idx?SID=ceeaf016fdd21de13fffb416153479ad&node=se29.8.1926_1952&rgn=div8). This work practice helps crews hold job briefings in compliance with OSHA requirements.
 
