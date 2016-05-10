@@ -64,6 +64,7 @@ The daily briefing will include the following subjects, at minimum:
 * Hazards associated with loading and unloading material.
 * Preparing the vehicles that will be used for the day’s work.
 * Plans for traveling to the job site.
+
 #### Daily Briefing Documentation
 The details of the daily briefing are not documented. Instead, you will initial a copy of the Daily Briefing Form (FM-0001-2015) before leaving the daily briefing. The Daily Briefing Form is a reusable laminated card that is kept at each reporting location.
 
