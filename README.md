@@ -7,9 +7,9 @@
 
 [Scope](https://github.com/hillaryfraley/jobbriefings#scope)
 
-[Work Practice](https://github.com/hillaryfraley/jobbriefings#work-practice)  
+[Work Practice](https://github.com/hillaryfraley/jobbriefings#work-practice)
 
-* [Daily Briefing](https://github.com/hillaryfraley/jobbriefings#daily-briefing)  
+* [Daily Briefing](https://github.com/hillaryfraley/jobbriefings#daily-briefing)
      - [Daily Briefing Requirements](https://github.com/hillaryfraley/jobbriefings#daily-briefing-requirements)
      - [Daily Briefing Documentation](https://github.com/hillaryfraley/jobbriefings#daily-briefing-documentation)
 * [Job Site Assessment](https://github.com/hillaryfraley/jobbriefings#job-site-assessment)
@@ -58,7 +58,12 @@ Every job requires these four elements, including storm response and service res
 The EIC or DCM holds a daily briefing at the beginning of each work day. The daily briefing is held at your reporting location, not the job site. The daily briefing gets all crew members involved in planning for the day’s work.
 #### Daily Briefing Requirements
 The daily briefing will include the following subjects, at minimum:
-Crew member check-in. Work plans for the day. Hazards associated with loading and unloading material. Preparing the vehicles that will be used for the day’s work. Plans for traveling to the job site.
+
+* Crew member check-in.
+* Work plans for the day.
+* Hazards associated with loading and unloading material.
+* Preparing the vehicles that will be used for the day’s work.
+* Plans for traveling to the job site.
 #### Daily Briefing Documentation
 The details of the daily briefing are not documented. Instead, you will initial a copy of the Daily Briefing Form (FM-0001-2015) before leaving the daily briefing. The Daily Briefing Form is a reusable laminated card that is kept at each reporting location.
 
