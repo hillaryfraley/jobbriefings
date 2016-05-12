@@ -56,6 +56,7 @@ Every job requires these four elements, including storm response and service res
 
 ### Daily Briefing
 The EIC or DCM holds a daily briefing at the beginning of each work day. The daily briefing is held at your reporting location, not the job site. The daily briefing gets all crew members involved in planning for the day’s work.
+
 #### Daily Briefing Requirements
 The daily briefing will include the following subjects, at minimum:
 
@@ -84,7 +85,6 @@ During the job site assessment, you must look for hazards and gather information
 
 Examples of information to gather during the job site assessment include:
 
-* None identified.
 * Voltages of lines and equipment.
 * Sources of induced voltage.
 * Conditions of poles and structures.
