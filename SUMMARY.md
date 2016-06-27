@@ -1,4 +1,4 @@
 # Summary
 
-* Purpose
+* [Introduction](README.md)
 
