@@ -81,7 +81,7 @@ During the job site assessment, you gather information about the job site that c
 #### Job Site Assessment Requirements
 During the job site assessment, you look for hazards and gather information about characteristics and conditions of the job site.
 
-> :warning: **WARNING**
+> **WARNING**
 
 > During the job site assessment, treat all lines and equipment as if they are energized.
 
@@ -105,20 +105,20 @@ Examples of information to gather during the job site assessment include:
 You do not have to document the details of your job site assessment. Instead, you should make mental notes of the hazards, characteristics, and conditions you observe so that you can talk about them during the job briefing.
 
 ### Job Briefing
-The job briefing is a detailed discussion of work plans, hazards for the job, information gathered during the job site assessment, and any information that affects the safety of the work to be completed.
+The job briefing is a detailed discussion of work plans, job hazards, information gathered during the job site assessment, and information that affects the safety of the work to be done.
 #### Job Briefing Requirements
 The EIC or DCM will use the Job Briefing Form (FM-0002-2015) as a guide for leading the job briefing. You should mention any notes and observations from your job site assessment during the job briefing.
 
 The job briefing will include the following topics:
 
 * Work procedures.
-* Hazards for the work to be completed.
+* Hazards for the work to be done.
 * Special precautions.
 * Energy source controls.
 * Personal protective equipment (PPE) requirements.
 
 
-> :warning: **WARNING**
+> **WARNING**
 
 > If you are involved in a job briefing, you must know the specific hazards identified for the job and how to mitigate or eliminate the hazards before you begin working.
 
